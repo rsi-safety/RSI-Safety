@@ -6,10 +6,11 @@
 </p>
 
 <p align="center">
+  <a href="https://rsi-safety.github.io"><img src="https://img.shields.io/badge/Project-Page-111827?style=flat-square" alt="Project page"></a>
   <a href="#to-do"><img src="https://img.shields.io/badge/Code-coming_soon-4C7594?style=flat-square" alt="Code release coming soon"></a>
   <a href="#to-do"><img src="https://img.shields.io/badge/Data-coming_soon-4F7969?style=flat-square" alt="Data release coming soon"></a>
   <a href="#to-do"><img src="https://img.shields.io/badge/Archive-coming_soon-A45545?style=flat-square" alt="Archive release coming soon"></a>
-  <a href="https://github.com/yunbeizhang/RSI-Safety/stargazers"><img src="https://img.shields.io/github/stars/yunbeizhang/RSI-Safety?style=flat-square&color=8B8178" alt="GitHub stars"></a>
+  <a href="https://github.com/rsi-safety/RSI-Safety/stargazers"><img src="https://img.shields.io/github/stars/rsi-safety/RSI-Safety?style=flat-square&color=8B8178" alt="GitHub stars"></a>
 </p>
 
 ## To-do
