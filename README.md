@@ -9,7 +9,8 @@
   <a href="https://rsi-safety.github.io"><img src="https://img.shields.io/badge/Project-Page-111827?style=flat-square" alt="Project page"></a>
   <a href="#to-do"><img src="https://img.shields.io/badge/Code-coming_soon-4C7594?style=flat-square" alt="Code release coming soon"></a>
   <a href="#to-do"><img src="https://img.shields.io/badge/Data-coming_soon-4F7969?style=flat-square" alt="Data release coming soon"></a>
-  <a href="#to-do"><img src="https://img.shields.io/badge/Archive-coming_soon-A45545?style=flat-square" alt="Archive release coming soon"></a>
+  <a href="https://arxiv.org/abs/2610.01073"><img src="https://img.shields.io/badge/arXiv-2610.01073-A45545?style=flat-square" alt="Paper on arXiv: 2610.01073"></a>
+  <a href="https://arxiv.org/pdf/2610.01073"><img src="https://img.shields.io/badge/Paper-PDF-4C7594?style=flat-square" alt="Read the paper PDF"></a>
   <a href="https://github.com/rsi-safety/RSI-Safety/stargazers"><img src="https://img.shields.io/github/stars/rsi-safety/RSI-Safety?style=flat-square&color=8B8178" alt="GitHub stars"></a>
 </p>
 
@@ -17,7 +18,7 @@
 
 - [ ] Release code
 - [ ] Release data
-- [ ] Release archive
+- [x] ~~Release archive~~ · [arXiv](https://arxiv.org/abs/2610.01073) · [PDF](https://arxiv.org/pdf/2610.01073)
 
 <!-- Mark completed releases with [x] and strike through their text with ~~...~~. -->
 
@@ -86,4 +87,4 @@ Each instance is an **ordered event stream** that interleaves protected-action r
 
 Each core block contains **24 public, 24 audit, and 24 hidden streams**. Across 288 blocks, this gives **20,736 stream assignments**. Assignments are reused across conditions and generations and are not a count of unique authorization problems. Public tests govern eligibility, audit tests support rollback, and hidden effects measure outcomes independently.
 
-The paper also studies previously unseen authorization dependencies, upstream framework components, and a Casbin policy-engine task. The figures above preview the findings. Code, data, and the archive will be linked through the release checklist as they become available.
+The paper also studies previously unseen authorization dependencies, upstream framework components, and a Casbin policy-engine task. The full paper is available on [arXiv](https://arxiv.org/abs/2610.01073). Code and data will be linked through the release checklist as they become available.
